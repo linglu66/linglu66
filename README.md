@@ -9,7 +9,7 @@
 
 -   :mortar_board: Soon-to-be (2021) Systems/Industrial engineering grad from UofT
 -   :notebook: Prieviously product design at Square and engineering at Dessa, RBC
--   :test_tube: Machine learning engineer turned designer
+-   :test_tube: Machine-learning-engineer-turned-designer
 -   :alien: Designing for AI, AR and VR
 -   :mailbox: Ask me about psychology, design, yoga, or anything else!
 
