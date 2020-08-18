@@ -1,17 +1,16 @@
-### I'm Ling! ☀️
+# I'm Ling! ☀️
 
 <!--
-**linglu66/linglu66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**linglu66/linglu66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
+[![Linkedin Badge](https://img.shields.io/badge/-llu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ling-l-b4982288/)](https://www.linkedin.com/in/ling-l-b4982288/
+)
+[![Website Badge](https://img.shields.io/badge/-linglu.ca-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://www.linglu.ca)
 
 -   :mortar_board: Soon-to-be (2021) Systems/Industrial engineering grad from UofT
--   :test_tube: Finishing up my minor in AI and HC
--   :ringed_planet: 
--   :mailbox: Ask me about psychology, designing for AI, yoga, or anything else!
-
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ling.lu916@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ling-l-b4982288/
-)
-[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.linglu.ca/)
+-   :test_tube: Machine learning engineer turned designer
+-   :alien: Designing for AI, AR and VR
+-   :mailbox: Ask me about psychology, design, yoga, or anything else!
 
 **Languages I have used**
 
