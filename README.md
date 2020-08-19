@@ -13,6 +13,16 @@
 -   :alien: Designing for AI, AR and VR
 -   :mailbox: Ask me about psychology, design, yoga, or anything else!
 
+### Currently working on:
+Updating my portfolio + writing case studies
+
+### Currently reading:
+Microinteractions - Dan Saffer
+
+### Currently learning:
+100 Days of SwiftUI
+
+
 **Languages I have used**
 
 
